@@ -19,6 +19,6 @@ Input file :
 First line contains T, which is the number of test cases
 The subsequent T lines each contain one substring to be searched for.
 
-e.g. file named input.txt
-1
-bunny
+e.g. file named input.txt<br>
+1<br>
+bunny<br>
