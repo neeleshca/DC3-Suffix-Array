@@ -1,7 +1,7 @@
 Assignment for Advanced Algorithms (UE16CS311)
-The following papers were referred to:
-J. Kärkkäinen et al. Linear Work Suffix Array Construction
-T. Kasai et al. Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications
+The following papers were referred to:<br>
+J. Kärkkäinen et al. Linear Work Suffix Array Construction<br>
+T. Kasai et al. Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications<br>
 U. Manber and G. Myers. Suffix arrays: A new method for on-line string searches
 
 
