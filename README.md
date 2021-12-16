@@ -6,11 +6,8 @@ U. Manber and G. Myers. Suffix arrays: A new method for on-line string searches
 
 
 
-There are 2 file descriptors, file1 and file2 defined in lines 28 and 29. (main.cpp)
-file1 is the input file
-file2 is the output file
-
-STDIN is possible too.
+There are 2 input files, one is the data with which the suffix array is constructed.  (data.txt)
+The second contains the strings to search for.
 
 It is compiled with
 g++ main.cpp code.cpp
@@ -21,3 +18,7 @@ and run with
 Input file :
 First line contains T, which is the number of test cases
 The subsequent T lines each contain one substring to be searched for.
+
+e.g. file named input.txt
+1
+bunny
