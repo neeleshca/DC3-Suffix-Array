@@ -1,4 +1,6 @@
-Assignment for Advanced Algorithms (UE16CS311)
+Assignment for Advanced Algorithms (UE16CS311)<br>
+We construct a generalized suffix array, and search for substrings. The indices are written to ouput if found, -1 otherwise.<br>
+
 The following papers were referred to:<br>
 J. Kärkkäinen et al. Linear Work Suffix Array Construction<br>
 T. Kasai et al. Linear-Time Longest-Common-Prefix Computation in Suffix Arrays and Its Applications<br>
